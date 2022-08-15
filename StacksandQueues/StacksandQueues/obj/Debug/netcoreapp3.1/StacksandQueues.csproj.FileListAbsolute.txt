@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.exe
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.deps.json
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.dll
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.pdb
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.dll
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.pdb
+C:\Users\Amit Pegu\Desktop\Day14StackQueues\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.genruntimeconfig.cache
